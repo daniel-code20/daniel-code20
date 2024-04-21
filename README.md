@@ -3,10 +3,20 @@
 <h3 align="lest">Soy un apasionado desarrollador web de El Salvador, enfocado en el frontend y el diseño. Me encanta combinar mi creatividad con la tecnología para crear experiencias únicas en la web. ¡Bienvenido a mi perfil!😁✌️</h3>
 <h2>Proyectos ✨</h2>
 
+### Colaboración 💪
+### - [@redshank/react-modal](https://www.npmjs.com/package/@redshank/react-modal#): una biblioteca con cero dependencias en la que puedes renderizar modales desde cualquier lugar, ya sea a través de la API o desde su componente. Con un bonito diseño de interfaz de usuario.😉💻
+#### Contribución: Apariencia del Modal mediante la implementación de atributos como posiciones, tamaños, etc.
+##### Tecnologías: TypeScript 
 ### Dispositivos móviles 📱✨
-- [Colors Jump](https://play.google.com/store/apps/details?id=com.DanielTejadaGames.ColorsJump&pcampaignid=web_share): Un videojuego de plataformas 2D muy colorido y divertido.😉
-- [Almas en el Viento: Odisea](https://play.google.com/store/apps/details?id=com.DanielTejada.AlmasenelVientoOdiseadelEspirituVolador&pcampaignid=web_share): Un videojuego con un ambiente tétrico en blanco y negro.👻👹
-- [Jumping Jump](https://play.google.com/store/apps/details?id=com.DanielTejada.JumpingJump&pcampaignid=web_share): Un videojuego infinito en el que tienes que saltar y evadir enemigos.💥😎
+### - [Colors Jump](https://play.google.com/store/apps/details?id=com.DanielTejadaGames.ColorsJump&pcampaignid=web_share): Un videojuego de plataformas 2D muy colorido y divertido.😉
+#### Contribución: Desarrollo completo, diseño de interfaces, personajes, niveles, programación de toda la lógica de jugabilidad.💻📱
+##### Tecnologías: Unity, C#, Adobe Photoshop, Adobe Illustrator 
+### - [Almas en el Viento: Odisea](https://play.google.com/store/apps/details?id=com.DanielTejada.AlmasenelVientoOdiseadelEspirituVolador&pcampaignid=web_share): Un videojuego con un ambiente tétrico en blanco y negro.👻👹
+#### Contribución: Desarrollo completo, diseño de interfaces, personajes, niveles, programación de toda la lógica de jugabilidad.💻📱
+##### Tecnologías: Unity, C#, Adobe Photoshop, Adobe Illustrator 
+### - [Jumping Jump](https://play.google.com/store/apps/details?id=com.DanielTejada.JumpingJump&pcampaignid=web_share): Un videojuego infinito en el que tienes que saltar y evadir enemigos.💥😎
+#### Contribución: Desarrollo completo, diseño de interfaces, personajes, niveles, programación de toda la lógica de jugabilidad.💻📱
+##### Tecnologías: Unity, C#, Adobe Photoshop, Adobe Illustrator 
 
 <h3 align="left">¡Contactame!😁✌️</h3>
 <p align="left">
