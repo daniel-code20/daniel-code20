@@ -3,7 +3,6 @@
 ## Sobre mí 🚀  
 Soy un apasionado desarrollador web de El Salvador, enfocado en el frontend y el diseño. Me encanta combinar mi creatividad con la tecnología para crear experiencias únicas en la web. ¡Bienvenido a mi perfil!😁✌️
 
-## Proyectos ✨
 ### Colaboración 💪
 - **[@redshank/react-modal](https://www.npmjs.com/package/@redshank/react-modal#)**  
   Una biblioteca con cero dependencias en la que puedes renderizar modales desde cualquier lugar, ya sea a través de la API o desde su componente. Con un bonito diseño de interfaz de usuario. 😉💻  
