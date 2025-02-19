@@ -7,16 +7,13 @@
 ### - [@redshank/react-modal](https://www.npmjs.com/package/@redshank/react-modal#): una biblioteca con cero dependencias en la que puedes renderizar modales desde cualquier lugar, ya sea a través de la API o desde su componente. Con un bonito diseño de interfaz de usuario.😉💻
 #### Contribución: Apariencia del Modal mediante la implementación de atributos como posiciones, tamaños, etc.
 ##### Tecnologías: TypeScript 
-### Dispositivos móviles 📱✨
-### - [Colors Jump](https://play.google.com/store/apps/details?id=com.DanielTejadaGames.ColorsJump&pcampaignid=web_share): Un videojuego de plataformas 2D muy colorido y divertido.😉
-#### Contribución: Desarrollo completo, diseño de interfaces, personajes, niveles, programación de toda la lógica de jugabilidad.💻📱
-##### Tecnologías: Unity, C#, Adobe Photoshop, Adobe Illustrator 
-### - [Almas en el Viento: Odisea](https://play.google.com/store/apps/details?id=com.DanielTejada.AlmasenelVientoOdiseadelEspirituVolador&pcampaignid=web_share): Un videojuego con un ambiente tétrico en blanco y negro.👻👹
-#### Contribución: Desarrollo completo, diseño de interfaces, personajes, niveles, programación de toda la lógica de jugabilidad.💻📱
-##### Tecnologías: Unity, C#, Adobe Photoshop, Adobe Illustrator 
-### - [Jumping Jump](https://play.google.com/store/apps/details?id=com.DanielTejada.JumpingJump&pcampaignid=web_share): Un videojuego infinito en el que tienes que saltar y evadir enemigos.💥😎
-#### Contribución: Desarrollo completo, diseño de interfaces, personajes, niveles, programación de toda la lógica de jugabilidad.💻📱
-##### Tecnologías: Unity, C#, Adobe Photoshop, Adobe Illustrator 
+Proyectos personales 🚀
+
+### - [ColorGen] (https://color-gen-two.vercel.app/): Una herramienta que extrae paletas de colores a partir de imágenes y también permite generar paletas de colores aleatorias, las cuales se pueden guardar. Además, incluye una UI simulada en donde se reflejan los colores de las paletas generadas. 🎨✨
+
+Contribución: Desarrollo completo, diseño de interfaz, implementación de lógica para la extracción y generación de paletas de colores.
+
+Tecnologías: React, TypeScript, Tailwind CSS 
 
 <h3 align="left">¡Contactame!😁✌️</h3>
 <p align="left">
