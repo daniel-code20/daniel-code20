@@ -1,5 +1,4 @@
 # Hola👋, soy Daniel Tejada
-
 ## Sobre mí 🚀  
 Soy un apasionado desarrollador web de El Salvador, enfocado en el frontend y el diseño. Me encanta combinar mi creatividad con la tecnología para crear experiencias únicas en la web. ¡Bienvenido a mi perfil!😁✌️
 
