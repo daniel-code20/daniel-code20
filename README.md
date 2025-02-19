@@ -10,8 +10,8 @@
 
 ### Proyectos personales 🚀
 ### - [ColorGen](https://color-gen-two.vercel.app/): Una herramienta que extrae paletas de colores a partir de imágenes y también permite generar paletas de colores aleatorias, las cuales se pueden guardar. Además, incluye una UI simulada en donde se reflejan los colores de las paletas generadas. 🎨✨
-### Contribución: Desarrollo completo, diseño de interfaz, implementación de lógica para la extracción y generación de paletas de colores.
-### Tecnologías: React y Tailwind CSS 
+#### Contribución: Desarrollo completo, diseño de interfaz, implementación de lógica para la extracción y generación de paletas de colores.
+##### Tecnologías: React y Tailwind CSS 
 
 <h3 align="left">¡Contactame!😁✌️</h3>
 <p align="left">
